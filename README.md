@@ -1,0 +1,19 @@
+<html>
+  <head>
+  </head>
+<body>
+<h1>👋 Hi, I’m Silvester O. Alvin</h1>
+<p>Hi, Panggil saja aku Alvin. Saya berasal dari sekolah Letris Indonesia 2. saya mengambil jurusan RPL/PPLG (Rekayasa Perangkat Lunak/Pengembangan Perangkat lunak dan Gim) </p>
+👀 I’m interested in ...
+🌱 I’m currently learning ...
+💞️ I’m looking to collaborate on ...
+📫 How to reach me ...
+😄 Pronouns: ...
+⚡ Fun fact: ...
+</body>
+</html>
+
+<!---
+SilvesterAlvinXPPLG2/SilvesterAlvinXPPLG2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
